@@ -1,9 +1,16 @@
 # wawe
 Template ==> https://www.figma.com/file/oh5MAWyVM52j9ZFk7ieWgN/wawe?node-id=57-39&t=iwNqC80td51g5ehC-0
 1.	About Project 
+
 1.1.	This is small not adaptive, lengthy project
+
+
 1.1.1.	Lengthy = development was carried out in free    days (they fell out randomly at completely different times)
+
+
 1.2.	I did this project for extension of web development skills (lmao, my skills are too bad :D) 
+
+
 2.	Flaws
 
 “Bellow there will be unfinished details (screenshots from the template, that is what should have been, but this is not, reason why there is no specific detail will be in paragraph 2.1)”
